@@ -11,3 +11,4 @@ if bit == '64bit':
     bnsbuy()
 elif bit == '32bit':
     print "\x1b[1;91mOops Your Device Not Supported"
+
